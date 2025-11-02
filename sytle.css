@@ -1,0 +1,17 @@
+.logo img{
+width: 10%;    
+}
+video{
+    width: 10%;
+}
+section div img{
+    width: 10%;
+}
+body{
+    color: brown;
+    background-attachment: fixed;
+    background-color: bisque;
+}
+.call button{
+    width: 10%;
+}
